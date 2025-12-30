@@ -233,7 +233,7 @@ public class App {
         }
         System.out.println("Código de reserva: " + codigoReserva);
 
-    
+    // prueba
         
     }
 
